@@ -15,4 +15,4 @@ g=b2-b1
 a = math.sin(t/2)**2+math.cos(a1)*math.cos(a2)*math.sin(g/2)**2
 c= 2*math.atan2(math.sqrt(a),math.sqrt(1-a))
 distance = R*c
-print('Расстояния между точками = %.2f км' % distance)
+print('Расстояние между точками = %.2f км' % distance)
